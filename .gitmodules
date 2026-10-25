@@ -1,0 +1,3 @@
+[submodule "couch-pip"]
+	path = couch-pip
+	url = https://github.com/CaraJean206/couch-pip
