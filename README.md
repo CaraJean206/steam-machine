@@ -7,7 +7,7 @@ SteamOS on a TV. Coded with [Claude](https://claude.ai).
 
 | Project | What it is | Status |
 | --- | --- | --- |
-| [Couch PiP](couch-pip) | Decky Loader plugin: picture-in-picture video over your games, made for TVs, with a controller remote. | Working, v0.4.5 |
+| [Couch PiP](couch-pip) | Decky Loader plugin: picture-in-picture video over your games, made for TVs, with a controller remote. | Working (updates itself) |
 
 Each project lives in its own repository and is linked here as a folder, so
 each one keeps its own history, releases and updates.
